@@ -1,7 +1,7 @@
 {
 	"engines": {
 		"node": ">=16.13.1",
-		"yarn": ">=1.22.17"
+		"yarn": ">=1.22.19"
 	},
 	"scripts": {
 		"polygon": "node node_modules/polygonjs-editor/build/index.js --port=8091"
